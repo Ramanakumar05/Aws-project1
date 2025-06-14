@@ -1,6 +1,3 @@
-Great — I've noted your GitHub repo. Here's a professional and well-structured `README.md` file tailored for your project hosted at [`Aws-project1`](https://github.com/Ramanakumar05/Aws-project1):
-
----
 
 # 🖼️ AWS-Powered Full Stack Image Uploader App
 
@@ -172,5 +169,3 @@ Focused on learning AWS Cloud Services hands-on
 **Ramana Kumar**
 
 ---
-
-Let me know if you'd like a version with badges or deployment screenshots!
