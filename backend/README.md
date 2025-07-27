@@ -165,4 +165,3 @@ Let me know if you want to implement **private bucket with signed URLs** too —
 
 ---
 
-Do you want help testing this with **Postman** or building the **React frontend** gallery?
