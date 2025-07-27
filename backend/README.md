@@ -1,6 +1,3 @@
-Absolutely! Let's walk **step-by-step** through how **personalized images are uploaded to and fetched from AWS S3** for each individual user, using your backend setup.
-
----
 
 ## 🔁 Full Flow: Personalized AWS S3 Image Upload + Retrieval
 
